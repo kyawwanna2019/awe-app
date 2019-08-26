@@ -28,7 +28,7 @@
 
    <!-- Run - Compile -->
     <target name="run" depends="compile">
-    <formatter type="xml">
+    <formatter type="xml" />
     </target>
     <!-- END -->
 
