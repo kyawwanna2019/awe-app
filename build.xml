@@ -23,7 +23,6 @@
         <exec executable="ls">
             <arg line="-l ${source}" />
         </exec>
-        <formatter type="xml" />
     </target>
     <!-- END -->
 
