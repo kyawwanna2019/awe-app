@@ -23,12 +23,7 @@
         <exec executable="ls">
             <arg line="-l ${source}" />
         </exec>
-    </target>
-    <!-- END -->
-
-   <!-- Run - Compile -->
-    <target name="run" depends="compile">
-    <formatter type="xml" />
+        <formatter type="xml" />
     </target>
     <!-- END -->
 
