@@ -1,6 +1,6 @@
-# AweApp
+# AweApp Ver 1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+AWE project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Development server
 
